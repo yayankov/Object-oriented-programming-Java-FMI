@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>zad1</OriginalElement>
+  <nodes>
+    <node x="-14.0" y="-230.0">zad1.Point</node>
+    <node x="-259.0" y="103.0">zad1.Rectangle</node>
+    <node x="294.0" y="134.0">zad1.Line</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="zad1.Rectangle" target="zad1.Point">
+      <point x="0.0" y="-105.0" />
+      <point x="-161.0" y="56.0" />
+      <point x="-50.5" y="49.0" />
+      <point x="-39.5" y="94.0" />
+    </edge>
+    <edge source="zad1.Line" target="zad1.Point">
+      <point x="0.0" y="-105.0" />
+      <point x="368.0" y="57.0" />
+      <point x="222.5" y="45.0" />
+      <point x="39.5" y="94.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="110.0" y="55.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

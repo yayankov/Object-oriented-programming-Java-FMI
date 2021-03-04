@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Week6_Zad1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Week6_Zad1_jar</output-path>
+    <root id="archive" name="Week6_Zad1.jar">
+      <element id="module-output" name="Week6_Zad1" />
+    </root>
+  </artifact>
+</component>
